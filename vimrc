@@ -1,4 +1,4 @@
-set history=50
+set history=100
 set incsearch     " do incremental searching
 set laststatus=2  " Always display the status line
 set nobackup
